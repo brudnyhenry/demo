@@ -1,7 +1,7 @@
 [
             {
-                "productName": 'mleko',
-                "productCode": 'axcaw',
+                "productName": "mleko",
+                "productCode": "axcaw",
                 "productPrice": 123.2,
                 "productID": 2,
                 "description": "Smaczne mleczko od krowy",
@@ -10,8 +10,8 @@
                 "imageUrl": "assets/images/mleko.jpg"
             },
             {
-                "productName": 'kielbaska',
-                "productCode": 'as-dxcw',
+                "productName": "kielbaska",
+                "productCode": "as-dxcw",
                 "productPrice": 323.2,
                 "productID": 3,
                 "description": "Tlusta kielbaska",
